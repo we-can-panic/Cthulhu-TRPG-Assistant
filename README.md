@@ -5,7 +5,6 @@
 クトゥルフ神話TRPGのゲームシステム進行ツール
 
 ## ゲームまでの手順
-1.
 1. `start -f sample/witch_house.yml`
 
 ## 概要

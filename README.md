@@ -1,6 +1,7 @@
 # Cthulhu-TRPG-Assistant
 
 クトゥルフ神話TRPGのゲームシステム進行ツール
+概要などの詳細は↓にあります。
 
 ## ゲームまでの手順
 1. `start -f sample/witch_house.yml`

@@ -7,7 +7,7 @@ import json, yaml
 import object_define as o
 
 
-proc dataLoad(dir: string): TRPG =
+proc dataLoad*(dir: string): TRPG =
   for jsfile in walkDir(dir):
     var jsondata = jsfile.path.parseFile()
     if jsfile.path.endsWith("Event.json"):
